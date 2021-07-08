@@ -1,0 +1,253 @@
+.header {
+    background-color: #150E31;
+    width: 100%;
+    height: 150px;
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    color: #150E31;
+    width: 700px;
+    margin: auto;
+    height: 200px;
+}
+
+.navigation {
+    font-family: 'Josefin Sans', sans-serif;
+    color: white;
+
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-evenly;
+}
+
+
+body {
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: #DBDDF2;
+    margin: 0;
+}
+
+.logo {
+    width: 264.5px;
+    height: 103px;
+    margin: auto;
+
+    display: flex;
+    align-items: center;
+}
+
+.hero {
+    width: 100%;
+}
+
+.heroimg {
+    position: relative;
+    text-align: center;
+}
+
+.cta {
+    position: absolute;
+    top: 50%;
+    left: 15%;
+    right: 15%;
+    translate: (-50%,-50%);
+
+    font-size: 36px;
+    color: white;
+    font-weight: bold;
+}
+
+.explore {
+    position: absolute;
+    top: 68%;
+    left: 42%;
+    right: 42%;
+    translate: (-50%,-50%);
+
+    background-color: #F3E140;
+    border-radius: 30px;
+    color: #150E31;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 14px;
+    width: 250px;
+    height: 35px;
+}
+
+h2 {
+    font-size: 36px;
+    color: #540C6D;
+    font-weight: bold;
+
+    position: relative;
+    top: 10%;
+    left: 27%;
+    right: 42%;
+    translate: (-50%,-50%);
+}
+
+.waovw {
+    width: 470px;
+    height: 398px;
+    padding: 40px;
+}
+
+.waovw2 {
+    width: 470px;
+    height: 398px;
+    padding: 40px;
+    display: contents;
+}
+
+.tickets {
+    background-color: #F3E140;
+    border-radius: 30px;
+    color: #150E31;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 14px;
+    width: 250px;
+    height: 35px;
+
+    position: absolute;
+    top: 1450px;
+    right: 400px;
+}    
+
+h3 {
+    position: absolute;
+    top: 1150px;
+    left: 540px;
+    color: #150E31;
+    font-size: 30px;
+}
+
+.dateTime {
+    position: absolute;
+    top: 1250px;
+    left: 540px;
+    font-weight: bold;
+    color: #150E31;
+    font-size: 22px;
+}
+
+.playDescription {
+    position: absolute;
+    top: 1300px;
+    right: 120px;
+    left: 540px;
+    color: #150E31;
+    font-size: 22px;
+    line-height: 1.2;
+}
+
+.supportImg {
+    width: 812px;
+    height: 566px;
+
+    position: absolute;
+    top: 1550px;
+    right: 0px;
+    left: 44%;
+}
+
+h4 {
+    font-size: 36px;
+    color: #15CDF5;
+    font-weight: bold;
+
+    position: absolute;
+    top: 1550px;
+    left: 100px;
+}
+
+.container2 {
+    width: 812px;
+    height: 566px;
+
+    position: absolute;
+    top: 1550px;
+    right: 700px;
+
+    background-color: black;
+}
+
+.supportDescription {
+    color: white;
+    font-size: 22px;
+    font-weight: normal; 
+
+    position: absolute;
+    top: 1650px;
+    left: 100px;
+    right: 750px;
+    line-height: 1.2;
+ }
+
+ .tiers {
+    color: white;
+    font-size: 20px;
+    font-weight:lighter; 
+    line-height: 1.2;
+
+    position: absolute;
+    top: 1800px;
+    left: 90px;
+    right: 750px;
+ }
+
+ .learnMore {
+    background-color: #F3E140;
+    border-radius: 30px;
+    color: #150E31;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 14px;
+    width: 250px;
+    height: 35px;
+
+    position: absolute;
+    top: 2000px;
+    left: 210px;
+ }
+
+ .footerBox {
+    background-color: #EEF4FB;
+    width: 100%;
+    height: 350px;
+    margin: 0;
+
+
+    position: absolute;
+    top: 2100px;
+ }
+
+ .logoFooter {
+    width: 364px;
+    height: 153px;
+    margin: 10px;
+
+    position: absolute;
+    top: 30px;
+    left: 20px;
+}
+
+.footerInfo {
+    list-style: none;
+    font-family: 'Josefin Sans', sans-serif;
+    color: #150E31;
+    font-size: 22px;
+
+    position: absolute;
+    top: 30px;
+    left: 400px;
+    justify-content: space-between;
+}
+
+.mailingList {
+    width: 437.01px;
+    height: 295.52px;
+
+    position: absolute;
+    top: 30px;
+    right: 50px;
+}
